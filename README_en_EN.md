@@ -11,9 +11,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/AnikBeris)  
-[![License](https://img.shields.io/badge/License-purple?style=flat&logo=github)](https://github.com/AnikBeris/n8n-docker/blob/main/LICENSE.md)  
-[![GitHub Stars](https://img.shields.io/github/stars/your-repo?style=flat&logo=github&label=Stars&color=orange)](https://github.com/AnikBeris)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/AnikBeris)
+[![License](https://img.shields.io/badge/License-purple?style=flat&logo=github)](https://github.com/AnikBeris/n8n-docker/blob/main/LICENSE.md)
+[![GitHub Stars](https://img.shields.io/github/stars/your-repo?style=flat&logo=github&label=Звёзды&color=orange)](https://github.com/AnikBeris)
 
 </div>
 
@@ -40,10 +40,12 @@ Donations are greatly appreciated, no matter how small. Thank you very much. �
 | **Cloud tips** | [cloudtips](https://pay.cloudtips.ru/p/7249ba98) |
 
 ---
-  <picture>
-    <img alt="Project Logo" src="./media/logo-dsm.png" width="128" height="auto">
-    <img alt="Project Logo" src="./media/logo-DuckDns.png" width="140" height="auto">
-  </picture>
+
+<p align="center">
+  <img alt="DSM Logo" src="./media/logo-dsm.png" width="128" height="auto">
+  <img alt="DuckDNS Logo" src="./media/logo-DuckDns.png" width="140" height="auto">
+</p>
+
 
 # 🚀 Installing [DuckDNS](https://www.duckdns.org)
 
