@@ -43,10 +43,15 @@
 | **Cloud tips** | [cloudtips](https://pay.cloudtips.ru/p/7249ba98) |
 ---
 
-  <picture>
-    <img alt="Project Logo" src="./media/logo-dsm.png" width="128" height="auto">
-    <img alt="Project Logo" src="./media/logo-DuckDns.png" width="140" height="auto">
-  </picture>
+<table align="center">
+  <tr>
+    <td><img src="./media/logo-dsm.png" alt="DSM Logo" width="128"></td>
+    <td><img src="./media/logo-DuckDns.png" alt="DuckDNS Logo" width="140"></td>
+  </tr>
+</table>
+
+
+
 
 
 # 🚀 Установка [DuckDNS](https://www.duckdns.org)
